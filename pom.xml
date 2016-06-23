@@ -6,7 +6,7 @@
     <version>0.0.3-SNAPSHOT</version>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/mkutter/mvn-jgit-example.git</developerConnection>
+        <developerConnection>scm:git:ssh://git@github.com/mkutter/mvn-jgit-example.git</developerConnection>
       <tag>HEAD</tag>
   </scm>
 
