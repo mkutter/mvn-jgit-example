@@ -6,7 +6,7 @@
     <version>0.0.4-SNAPSHOT</version>
 
     <scm>
-        <developerConnection>scm:git:ssh://git@github.com/mkutter/mvn-jgit-example.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/mkutter/mvn-jgit-example.git</developerConnection>
       <tag>HEAD</tag>
   </scm>
 
@@ -32,7 +32,7 @@
                     <dependency>
                         <groupId>org.apache.maven.scm</groupId>
                         <artifactId>maven-scm-provider-jgit</artifactId>
-                        <version>1.9.5-SNAPSHOT</version>
+                        <version>1.9.5</version>
                     </dependency>
                 </dependencies>
             </plugin>
