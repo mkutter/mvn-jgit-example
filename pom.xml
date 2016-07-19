@@ -3,11 +3,11 @@
 
     <groupId>com.example.mkutter</groupId>
     <artifactId>mvn-jgit-example</artifactId>
-    <version>0.0.4</version>
+    <version>0.0.5-SNAPSHOT</version>
 
     <scm>
         <developerConnection>scm:git:https://github.com/mkutter/mvn-jgit-example.git</developerConnection>
-      <tag>mvn-jgit-example-0.0.4</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <build>
